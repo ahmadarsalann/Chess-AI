@@ -7,3 +7,7 @@ The supporting classes listed in the link above that are in the repo are made by
 
 What did I made:
 I am the creator of aahmad3_ChessPlayer.py
+
+What does the program do:
+
+It is automated chess 'bot that uses the minimax algorithm and/or other logic to compete against yourself, and other players.
